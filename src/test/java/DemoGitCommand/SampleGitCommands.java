@@ -8,5 +8,6 @@ public class SampleGitCommands {
 @Test
 public void readDataTest() {
 	System.out.println("hi");
+	System.out.println("welcome to bash");
 }
 }
